@@ -1,3 +1,6 @@
+.container{
+margin-bottom:50px;
+}
 .nav-link{
 margin-top: 10px;
     color: black;
@@ -26,6 +29,7 @@ background-color:#F0FFF0 ;
     border-radius: 30px;
     color: white;
     padding: 5px 10px;
+    
 }
 .heading-position{
     margin-top: 70px;
@@ -34,4 +38,32 @@ background-color:#F0FFF0 ;
 .heading-position p{
     color: #6C6B6B;
 }
-
+.buy-btn{
+    background-color:#21B573;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 10px;
+    margin-top: 10px;
+    
+}
+.card small{
+    color: #585859;
+}
+.card{
+    margin-top: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 18px;
+    box-shadow: 5px 5px 40px lightgray ;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    margin-top: 5px;
+    height: 30px;
+}
+.card-footer img{
+    width: 15px;
+    height: 15px;
+}
