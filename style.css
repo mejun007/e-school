@@ -1,0 +1,39 @@
+.nav-link{
+margin-top: 10px;
+    color: black;
+}
+.sign-in-btn{
+    margin-top: 17px;
+    border: none;
+    border-radius: 20px;
+    width: 80px;
+    background-color:#21B573;
+    color: white;
+}
+
+.bg-header{
+background-color:#F0FFF0 ;
+}
+.logo-position{
+    margin-top: 10px;
+}
+#color-para{
+    color: #FD511A;
+}
+.get-btn{
+    background-color:#21B573;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 10px;
+}
+.heading-position{
+    margin-top: 70px;
+    
+}
+.heading-position p{
+    color: #6C6B6B;
+}
+.illus-img{
+    
+}
