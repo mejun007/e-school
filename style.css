@@ -111,3 +111,33 @@ background-color:#F0FFF0 ;
     color: black;
     text-align: start;
 }
+.bg-last{
+    background-color: #282531 ;
+    margin-top: 100px;
+    
+    color: white;
+    
+}
+.container-footer p{
+    margin-top: 65px;
+    color: white;
+    padding-left: 20px;
+}
+
+
+.left-artical, .course, .terms, .useful-link{
+    color: white;
+    margin-top: 50px;
+    list-style: none;
+
+  }
+  .course{
+      margin-left: 40px;
+  }
+
+ .foot{
+     text-align: center;
+     margin-top: 60px;
+ }
+
+ 
